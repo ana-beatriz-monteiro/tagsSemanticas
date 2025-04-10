@@ -4,3 +4,10 @@ body{
     height: 100%;
     background-color: rgb(17, 18, 22);
 }
+
+header{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(140, 175, 245);
+}
