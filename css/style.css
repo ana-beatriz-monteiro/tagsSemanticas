@@ -18,14 +18,14 @@ header{
 }
 
 header nav{
-    position: ralative;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
 }
 
-naw ul{
+nav ul{
     position: relative;
     display: flex;
     flex-direction: row;
